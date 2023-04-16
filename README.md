@@ -11,6 +11,6 @@
 
 ## Contact me
 <div > 
-  <img src="https://img.shields.io/badge/Mail-azwhikaru@163.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-azwhikaru%232357-404EED?style=for-the-badge&logo=discord&logoColor=white&labelColor=blue"/>
+  <img src="https://img.shields.io/badge/Mail-azwhikaru@163.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"/>
+  <img src="https://img.shields.io/badge/Discord-azwhikaru%232357-404EED?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED"/>
 </div>
