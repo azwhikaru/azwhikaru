@@ -1,12 +1,7 @@
-# A ***N00b***
 ## Interested in these
 <div > 
-  <img src="https://img.shields.io/badge/Python--blue?logo=python&style=for-the-badge&logoColor=white&labelColor=blue"/>
-  <img src="https://img.shields.io/badge/Java--FA862C?logo=openjdk&style=for-the-badge&logoColor=white&labelColor=FA862C"/>
-  <img src="https://img.shields.io/badge/Android--9FC037?logo=android&style=for-the-badge&logoColor=white&labelColor=9FC037"/>
   <img src="https://img.shields.io/badge/Android hacking--black?logo=android&style=for-the-badge&logoColor=white&labelColor=black"/>
   <img src="https://img.shields.io/badge/Cyber security--red?logo=hackaday&style=for-the-badge&logoColor=white&labelColor=red"/>
-  <img src="https://img.shields.io/badge/MediaTek Devices--F89B1C?logo=mediatek&style=for-the-badge&logoColor=white&labelColor=F89B1C"/>
 </div>
 
 ## Contact me
